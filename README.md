@@ -1,5 +1,5 @@
 # my repository
-## bio
+## My Bio
 " Hello! I am xialongbaoooo but call me xiao-xiao in short. Please to meet you! "
 
 ### **These are my 5 top-list favorite artists of all time!**
